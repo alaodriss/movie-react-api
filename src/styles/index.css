@@ -1,0 +1,44 @@
+.Serach-Bar {
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+    margin-left: 60px;
+}
+
+li:hover {
+
+    background-color: #e0e0ee;
+}
+.title_list_item {
+
+    text-align: center;
+}
+
+.bloc_info {
+
+    margin-top: 50px;
+    margin-left: 60px;
+
+
+}
+
+.embed-responsive {
+
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+.media {
+    padding: 12px; 
+    border: 1px solid green;
+}
+
+
+.form-control {
+    width: 94% !important;
+}
+
+.input-group-btn {
+  float: right;
+    margin: -38px 0PX 0px 0;
+}
